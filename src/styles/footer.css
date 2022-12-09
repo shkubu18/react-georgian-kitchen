@@ -1,0 +1,21 @@
+.footer {
+    height: 130px;
+}
+
+footer {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.671), rgba(32, 32, 31, 0.74));
+    height: 130px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 20px 40px;
+}
+
+
+
+.footer-container p {
+    font-weight: 500;
+    margin: 0;
+    color: white;
+}
