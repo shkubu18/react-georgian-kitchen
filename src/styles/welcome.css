@@ -1,8 +1,9 @@
 .home-container {
-    min-height: calc(100vh - 100px - 130px);
+    min-height: calc(100vh - 100px - 170px);
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-block: 20px;
 }
 
 .welcome-container {
