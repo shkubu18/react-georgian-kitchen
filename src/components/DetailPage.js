@@ -1,8 +1,6 @@
-import { Link } from "react-router-dom"
 import { Helmet } from "react-helmet"
-import ArrowRight from "../assets/icon/arrow-right.svg";
-import FoodDetailstyle from "../styles/food-detail.css";
-import FoodDetailResponsive from "../styles/responsive-styles/food-detail-responsive.css";
+import "../styles/food-detail.css";
+import "../styles/responsive-styles/food-detail-responsive.css";
 import DetailKhinkali from "./Detail-Page-Templates/Khinkali";
 import DetailMtsvadi from "./Detail-Page-Templates/Mtsvadi";
 import DetailKababi from "./Detail-Page-Templates/Kababi";

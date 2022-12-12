@@ -1,8 +1,7 @@
 import { Link } from "react-router-dom";
-import { useState, useEffect } from "react";
 import DownArrow from "../assets/icon/arrow-down.svg";
-import WelcomeStyle from "../styles/welcome.css";
-import WelcomeResponsive from "../styles/responsive-styles/home-responsive.css";
+import "../styles/welcome.css";
+import "../styles/responsive-styles/home-responsive.css";
 import {Helmet} from 'react-helmet';
 
 

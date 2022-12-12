@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import Logo from "../assets/icon/restaurant.svg"
 import MenuBar from "../assets/icon/menu-bar.svg";
-import HeaderStyle from "../styles/header.css"
+import "../styles/header.css"
 import { useEffect, useState } from "react";
 
 export default function Header() {

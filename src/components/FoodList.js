@@ -1,6 +1,5 @@
-import { Link } from "react-router-dom";
-import FoodListStlye from "../styles/food-list.css";
-import ResponsiveFoodListStyle from "../styles/responsive-styles/food-list-responsive.css";
+import "../styles/food-list.css";
+import "../styles/responsive-styles/food-list-responsive.css";
 import { Helmet } from "react-helmet";
 
 
