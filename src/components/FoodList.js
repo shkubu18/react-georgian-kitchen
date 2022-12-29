@@ -83,6 +83,7 @@ export const foods = [
 
     {
         id: 12,
+        urlname: 'chakhafuli',
         foodname: 'Chakhafuli',
         src: 'https://for.ge/uploads/images/1584103781_182203.jpg'
     },
@@ -105,7 +106,7 @@ export const foods = [
         id: 15,
         urlname: 'shqmeruli-chicken',
         foodname: 'Shqmeruli chicken',
-        src: 'https://cdn-aancj.nitrocdn.com/gCmPdOiQHRSMMdgshrWKlPFYQNLRTYAo/assets/static/optimized/rev-50643cb/wp-content/uploads/2016/06/L1080538.jpg'
+        src: 'https://images.bolt.eu/store/2021/2021-04-19/664242d2-f6e3-44e7-8dbe-2ca539f07238.jpeg'
     },
 
     {
